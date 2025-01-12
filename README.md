@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanisha4__
 - 👀 I’m interested in learing new things..
-- 🌱 I’m currently learning c&c++
+- 🌱 I’m currently learning Java & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
